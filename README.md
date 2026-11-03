@@ -78,9 +78,3 @@ Johnson, C. (2026). The Fibonacci Principle: Damped Harmonic Convergence in the 
 Licensed under Creative Commons Attribution 4.0 International (CC BY 4.0). Attribution required.
 
 [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
-
----
-
-Full publication list: [https://www.SemanticDrift.net](https://www.SemanticDrift.net)
-
----
