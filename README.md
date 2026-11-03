@@ -73,4 +73,4 @@ Johnson, C. (2026). The Fibonacci Principle: Damped Harmonic Convergence in the 
 
 ## License
 
-026 Carolina Johnson (CJ). All Rights Reserved.
+© 2026 Carolina Johnson (CJ). All Rights Reserved.
